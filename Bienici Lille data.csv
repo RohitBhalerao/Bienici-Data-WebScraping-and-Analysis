@@ -1,0 +1,595 @@
+Property type,Listing type,Locality,Number of rooms,Area,Price,Negotiable price,Per Square Meter,Latitude,Longitude
+Maison,Old Property,Lille_Sud,4,93,192000,No,2064.516129,50.609095,3.040395
+Maison,Old Property,Saint_Maurice_Pellevoisin,4,117,325500,No,2782.051282,50.644111,3.087731
+Appartement,Old Property,Bourg_Délivrance,4,65,277500,Yes,4269.230769,50.645721,2.984393
+Appartement,Old Property,Lille_Sud,4,61,214025.5,Yes,3508.614754,50.609095,3.040395
+Appartement,Old Property,Lille_Sud,4,83,257000,Yes,3096.385542,50.609095,3.040395
+VILLA,Old Property,Centre_ville_Euralille,5,183,535000,Yes,2923.497268,50.634672,3.071724
+Appartement,Old Property,Moulins,3,72,240000,Yes,3333.333333,50.618989,3.066337
+Appartement,Old Property,Fives,2,45,161000,Yes,3577.777778,50.628545,3.090331
+Appartement,Old Property,Sud_Marais,3,54,223000,Yes,4129.62963,50.628596,3.004442
+Appartement,Old Property,Centre_ville_Euralille,5,106,339000,No,3198.113208,50.634672,3.071724
+Appartement,Old Property,Vauban_Esquermes,4,77,299000,No,3883.116883,50.63005,3.042561
+Appartement,Old Property,Vauban_Esquermes,4,77,299000,No,3883.116883,50.63005,3.042561
+Appartement,Old Property,Sud_Marais,3,72,180000,No,2500,50.628596,3.004442
+Maison,Old Property,Fives,5,105,240000,No,2285.714286,50.628545,3.090331
+Appartement,Old Property,Saint_Maurice_Pellevoisin,2,52,199000,No,3826.923077,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,4,76,365000,No,4802.631579,50.634672,3.071724
+Appartement,Old Property,Sud_Marais,4,90,285150,No,3168.333333,50.628596,3.004442
+Appartement,Old Property,Wazemmes,3,56,224000,No,4000,50.62383,3.047664
+Appartement,Old Property,Centre_ville_Euralille,4,90,269475,No,2994.166667,50.634672,3.071724
+Appartement,Old Property,Moulins,3,66,185000,No,2803.030303,50.618989,3.066337
+Maison,Old Property,Saint_Maurice_Pellevoisin,9,160,564500,No,3528.125,50.644111,3.087731
+Appartement,Old Property,Vieux_Lille,3,62,124740,No,2011.935484,50.642801,3.059485
+Maison,Old Property,Bourg_Délivrance,4,101,207750,No,2056.930693,50.645721,2.984393
+Appartement,Old Property,Wazemmes,3,60,187620,No,3127,50.62383,3.047664
+Appartement,Old Property,Fives,4,89,229500,No,2578.651685,50.628545,3.090331
+Studio,Old Property,Fives,1,29,177500,No,6120.689655,50.628545,3.090331
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,80,259500,No,3243.75,50.644111,3.087731
+Maison,Old Property,Vauban_Esquermes,4,93,241850,No,2600.537634,50.63005,3.042561
+Appartement,Old Property,Vauban_Esquermes,7,204,591928,No,2901.607843,50.63005,3.042561
+Maison,Old Property,Fives,4,90,116150,No,1290.555556,50.628545,3.090331
+Maison,Old Property,Vauban_Esquermes,4,85,240200,No,2825.882353,50.63005,3.042561
+Appartement,Old Property,Vauban_Esquermes,3,61,240235,No,3938.278689,50.63005,3.042561
+Appartement,Old Property,Centre_ville_Euralille,1,25,171000,No,6840,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,3,98,440000,No,4489.795918,50.634672,3.071724
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,63,230000,No,3650.793651,50.644111,3.087731
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,80,259500,No,3243.75,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,3,83,325000,No,3915.662651,50.634672,3.071724
+Appartement,Old Property,Faubourg_de_Béthune,3,68,189500,No,2786.764706,50.616859,3.031243
+Appartement,Old Property,Hellemmes_,3,76,215000,No,2828.947368,50.629241,3.110993
+Appartement,Old Property,Wazemmes,1,20,99500,No,4975,50.62383,3.047664
+Appartement,Old Property,Moulins,2,44,183570,No,4172.045455,50.618989,3.066337
+Appartement,Old Property,Vieux_Lille,2,52,236063,No,4539.673077,50.642801,3.059485
+Maison,Old Property,Lille_Sud,5,100,295000,No,2950,50.609095,3.040395
+Appartement,Old Property,Vieux_Lille,2,30,185000,No,6166.666667,50.642801,3.059485
+Maison,Old Property,Lille_Sud,7,200,584000,No,2920,50.609095,3.040395
+Maison,Old Property,Bois_Blanc,9,237,661350,No,2790.506329,50.630383,3.026585
+Maison,Old Property,Bourg_Délivrance,6,227,589000,No,2594.713656,50.645721,2.984393
+Appartement,Old Property,Saint_Maurice_Pellevoisin,2,47,194069,No,4129.12766,50.644111,3.087731
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,84,265000,No,3154.761905,50.644111,3.087731
+Appartement,Old Property,Fives,2,45,113800,No,2528.888889,50.628545,3.090331
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,119,399990,No,3361.260504,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,4,100,443500,No,4435,50.634672,3.071724
+Maison,Old Property,Moulins,3,42,118500,No,2821.428571,50.618989,3.066337
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,95,340000,No,3578.947368,50.644111,3.087731
+Appartement,Old Property,Wazemmes,2,35,125465,No,3584.714286,50.62383,3.047664
+Appartement,Old Property,Moulins,1,21,76200,No,3628.571429,50.618989,3.066337
+Appartement,Old Property,Moulins,2,56,195000,No,3482.142857,50.618989,3.066337
+Appartement,Old Property,Centre_ville_Euralille,3,90,450000,No,5000,50.634672,3.071724
+Appartement,Old Property,Saint_Maurice_Pellevoisin,2,43,150000,No,3488.372093,50.644111,3.087731
+Maison,Old Property,Wazemmes,5,147,599000,No,4074.829932,50.62383,3.047664
+Appartement,Old Property,Mont_à_Camp_Marais,3,62,262310,No,4230.806452,50.640847,3.010152
+Maison,Old Property,Fives,4,180,680000,No,3777.777778,50.628545,3.090331
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,85,261000,No,3070.588235,50.644111,3.087731
+Maison,Old Property,Mitterie,7,260,797000,No,3065.384615,50.650932,2.993831
+Appartement,Old Property,Fives,1,82,162000,No,1975.609756,50.628545,3.090331
+Appartement,Old Property,Fives,1,150,205000,No,1366.666667,50.628545,3.090331
+Appartement,Old Property,Centre_ville_Euralille,3,73,220000,No,3013.69863,50.634672,3.071724
+Appartement,Old Property,Vauban_Esquermes,3,82,299000,No,3646.341463,50.63005,3.042561
+Maison,Old Property,Wazemmes,8,200,567300,No,2836.5,50.62383,3.047664
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,65,238500,No,3669.230769,50.644111,3.087731
+Appartement,Old Property,Moulins,2,39,113900,No,2920.512821,50.618989,3.066337
+Appartement,Old Property,Faubourg_de_Béthune,1,19,52000,No,2736.842105,50.616859,3.031243
+Appartement,Old Property,Centre_ville_Euralille,2,49,189000,No,3857.142857,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,4,136,483000,No,3551.470588,50.634672,3.071724
+Maison,Old Property,Lille_Sud,4,93,192000,No,2064.516129,50.609095,3.040395
+Appartement,Old Property,Mont_à_Camp_Marais,2,43,162481,No,3778.627907,50.640847,3.010152
+VILLA,Old Property,Vauban_Esquermes,5,105,380000,No,3619.047619,50.63005,3.042561
+Appartement,Old Property,Mitterie,2,40,107000,No,2675,50.650932,2.993831
+Appartement,Old Property,Vauban_Esquermes,4,77,299000,No,3883.116883,50.63005,3.042561
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,64,190000,No,2968.75,50.644111,3.087731
+Maison,Old Property,Fives,1,113,180000,No,1592.920354,50.628545,3.090331
+VILLA,Old Property,Vieux_Lille,4,101,483000,No,4782.178218,50.642801,3.059485
+Appartement,Old Property,Moulins,4,83,185500,No,2234.939759,50.618989,3.066337
+Studio,Old Property,Wazemmes,1,17,97000,No,5705.882353,50.62383,3.047664
+Appartement,Old Property,Lille_Sud,3,66,233500,No,3537.878788,50.609095,3.040395
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,99,275000,No,2777.777778,50.644111,3.087731
+Maison,Old Property,Saint_Maurice_Pellevoisin,4,117,325500,No,2782.051282,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,3,68,364000,No,5352.941176,50.634672,3.071724
+Appartement,Old Property,Lille_Sud,4,90,347000,No,3855.555556,50.609095,3.040395
+Appartement,Old Property,Wazemmes,2,48,188000,No,3916.666667,50.62383,3.047664
+Appartement,Old Property,Saint_Maurice_Pellevoisin,2,46,180000,No,3913.043478,50.644111,3.087731
+Studio,Old Property,Vauban_Esquermes,1,35,119350,No,3410,50.63005,3.042561
+Appartement,Old Property,Bois_Blanc,3,65,274500,No,4223.076923,50.630383,3.026585
+Appartement,Old Property,Moulins,2,45,176000,No,3911.111111,50.618989,3.066337
+Studio,Old Property,Fives,1,14,52500,No,3750,50.628545,3.090331
+Appartement,Old Property,Lille_Sud,2,43,155250,No,3610.465116,50.609095,3.040395
+Appartement,Old Property,Fives,3,63,189000,No,3000,50.628545,3.090331
+Appartement,Old Property,Vauban_Esquermes,1,17,91000,No,5352.941176,50.63005,3.042561
+Appartement,Old Property,Wazemmes,2,50,200000,No,4000,50.62383,3.047664
+Appartement,Old Property,Mont_à_Camp_Marais,3,83,199500,No,2403.614458,50.640847,3.010152
+Maison,Old Property,Vauban_Esquermes,9,190,672000,No,3536.842105,50.63005,3.042561
+Appartement,Old Property,Vieux_Lille,4,90,286500,No,3183.333333,50.642801,3.059485
+Appartement,Old Property,Centre_ville_Euralille,2,42,177000,No,4214.285714,50.634672,3.071724
+Maison,Old Property,Vauban_Esquermes,4,81,255000,No,3148.148148,50.63005,3.042561
+Maison,Old Property,Wazemmes,3,75,199500,No,2660,50.62383,3.047664
+Appartement,Old Property,Fives,3,96,243000,No,2531.25,50.628545,3.090331
+Appartement,Old Property,Faubourg_de_Béthune,3,65,222450,No,3422.307692,50.616859,3.031243
+Appartement,Old Property,Centre_ville_Euralille,2,43,199500,No,4639.534884,50.634672,3.071724
+Studio,Old Property,Faubourg_de_Béthune,1,20,65000,No,3250,50.616859,3.031243
+Appartement,Old Property,Fives,3,75,232900,No,3105.333333,50.628545,3.090331
+Studio ,Old Property,Vauban_Esquermes,1,20,140000,No,7000,50.63005,3.042561
+Appartement,Old Property,Hellemmes_,2,49,360000,No,7346.938776,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,1,20,109900,No,5495,50.629241,3.110993
+Appartement,Old Property,Lille_Sud,3,71,239500,No,3373.239437,50.609095,3.040395
+Maison,Old Property,Wazemmes,4,117,316500,No,2705.128205,50.62383,3.047664
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,90,249000,No,2766.666667,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,4,110,394875,No,3589.772727,50.634672,3.071724
+Appartement,Old Property,Sud_Marais,3,73,174900,No,2395.890411,50.628596,3.004442
+Maison,Old Property,Centre_ville_Euralille,5,136,645000,No,4742.647059,50.634672,3.071724
+Appartement,Old Property,Lille_Sud,5,110,298000,No,2709.090909,50.609095,3.040395
+Appartement,Old Property,Saint_Maurice_Pellevoisin,4,92,236250,No,2567.934783,50.644111,3.087731
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,70,252000,No,3600,50.644111,3.087731
+VILLA,Old Property,Lille_Sud,4,77,238000,No,3090.909091,50.609095,3.040395
+VILLA,Old Property,Lille_Sud,4,92,266000,No,2891.304348,50.609095,3.040395
+Appartement,Old Property,Lille_Sud,4,87,311000,No,3574.712644,50.609095,3.040395
+Appartement,Old Property,Centre_ville_Euralille,2,41,165500,No,4036.585366,50.634672,3.071724
+Appartement,Old Property,Wazemmes,2,50,220500,No,4410,50.62383,3.047664
+Appartement,Old Property,Vieux_Lille,3,113,638495,No,5650.39823,50.642801,3.059485
+Maison,Old Property,Mitterie,5,150,259900,No,1732.666667,50.650932,2.993831
+Appartement,Old Property,Wazemmes,2,59,259000,No,4389.830508,50.62383,3.047664
+Appartement,Old Property,Centre_ville_Euralille,3,71,232000,No,3267.605634,50.634672,3.071724
+Appartement,Old Property,Mont_à_Camp_Marais,3,81,259000,No,3197.530864,50.640847,3.010152
+Appartement,Old Property,Wazemmes,1,12,99600,No,8300,50.62383,3.047664
+Maison,Old Property,Sud_Marais,4,120,222450,No,1853.75,50.628596,3.004442
+Appartement,Old Property,Centre_ville_Euralille,4,100,443500,No,4435,50.634672,3.071724
+Appartement,Old Property,Hellemmes_,3,62,145800,No,2351.612903,50.629241,3.110993
+Appartement,Old Property,Centre_ville_Euralille,1,32,134817,No,4213.03125,50.634672,3.071724
+Maison,Old Property,Bois_Blanc,7,185,584000,No,3156.756757,50.630383,3.026585
+Appartement,Old Property,Fives,1,15,56500,No,3766.666667,50.628545,3.090331
+Appartement,Old Property,Vauban_Esquermes,3,63,180000,No,2857.142857,50.63005,3.042561
+Appartement,Old Property,Bourg_Délivrance,2,40,148500,No,3712.5,50.645721,2.984393
+Maison,Old Property,Bois_Blanc,7,185,584000,No,3156.756757,50.630383,3.026585
+Maison,Old Property,Fives,5,105,295000,No,2809.52381,50.628545,3.090331
+Maison,Old Property,Fives,5,105,295000,No,2809.52381,50.628545,3.090331
+Maison,Old Property,Bois_Blanc,3,40,119900,No,2997.5,50.630383,3.026585
+Appartement,Old Property,Mitterie,2,40,107000,No,2675,50.650932,2.993831
+Appartement,Old Property,Moulins,1,17,78500,No,4617.647059,50.618989,3.066337
+Appartement,Old Property,Moulins,2,35,109000,No,3114.285714,50.618989,3.066337
+Appartement,Old Property,Centre_ville_Euralille,1,33,241726,No,7325.030303,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,4,74,358400,No,4843.243243,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,3,118,778590,No,6598.220339,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,12,184,1097000,No,5961.956522,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,3,65,208000,No,3200,50.634672,3.071724
+Studio,Old Property,Fives,1,29,177500,No,6120.689655,50.628545,3.090331
+Appartement,Old Property,Fives,2,42,252400,No,6009.52381,50.628545,3.090331
+Appartement,Old Property,Vauban_Esquermes,3,82,299000,No,3646.341463,50.63005,3.042561
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,95,340000,No,3578.947368,50.644111,3.087731
+Appartement,Old Property,Fives,3,73,423600,No,5802.739726,50.628545,3.090331
+Appartement,Old Property,Vauban_Esquermes,3,73,435300,No,5963.013699,50.63005,3.042561
+Appartement,Old Property,Lille_Sud,4,85,335000,No,3941.176471,50.609095,3.040395
+Appartement,Old Property,Moulins,1,29,122000,No,4206.896552,50.618989,3.066337
+Appartement,Old Property,Saint_Maurice_Pellevoisin,2,43,152000,No,3534.883721,50.644111,3.087731
+Appartement,Old Property,Vieux_Lille,4,85,196000,No,2305.882353,50.642801,3.059485
+Appartement,Old Property,Lille_Sud,3,65,200450,No,3083.846154,50.609095,3.040395
+Appartement,Old Property,Centre_ville_Euralille,3,72,289246,No,4017.305556,50.634672,3.071724
+Appartement,Old Property,Hellemmes_,3,45,250500,Yes,5566.666667,50.629241,3.110993
+Appartement,Old Property,Lille_Sud,3,42,192388.5,Yes,4580.678571,50.609095,3.040395
+Appartement,Old Property,Lille_Sud,4,67,213000,No,3179.104478,50.609095,3.040395
+Appartement,Old Property,Vieux_Lille,3,105,530000,No,5047.619048,50.642801,3.059485
+Appartement,Old Property,Centre_ville_Euralille,3,85,495500,Yes,5829.411765,50.634672,3.071724
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,59,377500,Yes,6398.305085,50.644111,3.087731
+Appartement,Old Property,Bourg_Délivrance,2,41,204000,Yes,4975.609756,50.645721,2.984393
+Appartement,Old Property,Centre_ville_Euralille,1,31,131000,No,4225.806452,50.634672,3.071724
+Appartement,Old Property,Moulins,2,48,170000,No,3541.666667,50.618989,3.066337
+Appartement,Old Property,Centre_ville_Euralille,3,71,232000,No,3267.605634,50.634672,3.071724
+Appartement,Old Property,Wazemmes,2,59,259000,No,4389.830508,50.62383,3.047664
+Appartement,Old Property,Moulins,4,83,345400,No,4161.445783,50.618989,3.066337
+Appartement,Old Property,Wazemmes,2,60,217000,No,3616.666667,50.62383,3.047664
+Appartement,Old Property,Saint_Maurice_Pellevoisin,1,27,122000,No,4518.518519,50.644111,3.087731
+Maison,Old Property,Vauban_Esquermes,4,81,255000,No,3148.148148,50.63005,3.042561
+Appartement,Old Property,Centre_ville_Euralille,3,67,264250,No,3944.029851,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,3,73,435600,No,5967.123288,50.634672,3.071724
+Appartement,Old Property,Lille_Sud,2,39,161447.5,Yes,4139.679487,50.609095,3.040395
+Appartement,Old Property,Vauban_Esquermes,1,20,94900,No,4745,50.63005,3.042561
+Maison,Old Property,Fives,4,76,192000,No,2526.315789,50.628545,3.090331
+Appartement,Old Property,Centre_ville_Euralille,3,68,220000,No,3235.294118,50.634672,3.071724
+Maison,Old Property,Bourg_Délivrance,4,150,360000,No,2400,50.645721,2.984393
+Appartement,Old Property,Faubourg_de_Béthune,3,55,117000,No,2127.272727,50.616859,3.031243
+Appartement,Old Property,Fives,3,62,189000,No,3048.387097,50.628545,3.090331
+Maison,Old Property,Bourg_Délivrance,6,122,359000,No,2942.622951,50.645721,2.984393
+Appartement,Old Property,Moulins,2,34,127500,No,3750,50.618989,3.066337
+Appartement,Old Property,Fives,3,77,233600,No,3033.766234,50.628545,3.090331
+Appartement,Old Property,Centre_ville_Euralille,2,36,211000,No,5861.111111,50.634672,3.071724
+Appartement,Old Property,Vieux_Lille,1,22,152000,No,6909.090909,50.642801,3.059485
+Appartement,Old Property,Vauban_Esquermes,3,93,390350,No,4197.311828,50.63005,3.042561
+Maison,Old Property,Hellemmes_,7,125,294000,No,2352,50.629241,3.110993
+Appartement,Old Property,Faubourg_de_Béthune,3,66,210000,No,3181.818182,50.616859,3.031243
+Appartement,Old Property,Hellemmes_,3,74,274000,No,3702.702703,50.629241,3.110993
+Appartement,Old Property,Bourg_Délivrance,4,83,342900,No,4131.325301,50.645721,2.984393
+Appartement,Old Property,Mitterie,4,83,175000,No,2108.433735,50.650932,2.993831
+Maison,Old Property,Fives,4,65,189000,No,2907.692308,50.628545,3.090331
+Appartement,Old Property,Saint_Maurice_Pellevoisin,3,96,389000,Yes,4052.083333,50.644111,3.087731
+Appartement,Old Property,Faubourg_de_Béthune,3,72,159000,No,2208.333333,50.616859,3.031243
+Appartement,Old Property,Centre_ville_Euralille,5,111,574000,No,5171.171171,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,3,74,358400,No,4843.243243,50.634672,3.071724
+Maison,Old Property,Wazemmes,8,200,567300,No,2836.5,50.62383,3.047664
+Appartement,Old Property,Centre_ville_Euralille,1,32,134817,No,4213.03125,50.634672,3.071724
+Appartement,Old Property,Bourg_Délivrance,1,54,208000,Yes,3851.851852,50.645721,2.984393
+Appartement,Old Property,Hellemmes_,3,38,204000,Yes,5368.421053,50.629241,3.110993
+Appartement,Old Property,Mitterie,1,52,221500,Yes,4259.615385,50.650932,2.993831
+Appartement,Old Property,Bourg_Délivrance,2,54,318500,Yes,5898.148148,50.645721,2.984393
+Appartement,Old Property,Moulins,2,32,233950,Yes,7310.9375,50.618989,3.066337
+Appartement,Old Property,Centre_ville_Euralille,2,46,322750,Yes,7016.304348,50.634672,3.071724
+Appartement,Old Property,Vieux_Lille,3,77,555516.5,Yes,7214.5,50.642801,3.059485
+Appartement,Old Property,Hellemmes_,1,18,100170,No,5565,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,2,38,200550,No,5277.631579,50.629241,3.110993
+Appartement,Old Property,Moulins,2,39,207375,No,5317.307692,50.618989,3.066337
+Appartement,Old Property,Moulins,2,40,223256,No,5581.4,50.618989,3.066337
+Appartement,Old Property,Hellemmes_,2,45,231525,No,5145,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,2,46,239242,No,5200.913043,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,2,48,243936,No,5082,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,3,58,276885,No,4773.87931,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,3,63,286702,No,4550.825397,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,3,69,312438,No,4528.086957,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,3,71,321919,No,4534.070423,50.629241,3.110993
+Appartement,Old Property,Centre_ville_Euralille,4,61,325000,No,5327.868852,50.634672,3.071724
+Appartement,Old Property,Hellemmes_,3,63,330498,No,5246,50.629241,3.110993
+Appartement,Old Property,Hellemmes_,3,69,349912,No,5071.188406,50.629241,3.110993
+Appartement,Old Property,Moulins,3,80,403370,No,5042.125,50.618989,3.066337
+Appartement,Old Property,Centre_ville_Euralille,5,150,967000,No,6446.666667,50.634672,3.071724
+Maison,Old Property,Hellemmes_,5,75,173500,No,2313.333333,50.629241,3.110993
+Appartement,Old Property,Centre_ville_Euralille,1,32,134817,No,4213.03125,50.634672,3.071724
+Appartement,Old Property,Centre_ville_Euralille,5,105,830000,No,7904.761905,50.634672,3.071724
+Maison,Old Property,Saint_Maurice_Pellevoisin,6,192,247500,No,1289.0625,50.644111,3.087731
+Appartement,Old Property,Centre_ville_Euralille,3,64,124000,No,1937.5,50.634672,3.071724
+Appartement,Old Property,Lille_Sud,3,82,391000,No,4768.292683,50.609095,3.040395
+Appartement,Old Property,Vauban_Esquermes,4,97,443500,No,4572.164948,50.63005,3.042561
+Appartement,Old Property,Centre_ville_Euralille,5,99,331000,No,3343.434343,50.634672,3.071724
+Appartement,Old Property,Fives,4,87,298000,No,3425.287356,50.628545,3.090331
+Appartement,Old Property,Lille_Sud,5,110,369000,No,3354.545455,50.609095,3.040395
+VILLA,Old Property,Centre_ville_Euralille,3,73,650000,No,8904.109589,50.634672,3.071724
+Maison,Old Property,Bourg_Délivrance,6,170,412000,No,2423.529412,50.645721,2.984393
+Appartement,Old Property,Wazemmes,4,82,248000,No,3024.390244,50.62383,3.047664
+Appartement,Old Property,Lille_Sud,3,64,211000,No,3296.875,50.609095,3.040395
+Appartement,Old Property,Vieux_Lille,2,47,268000,Yes,5702.12766,50.642801,3.059485
+Appartement,Old Property,Lille_Sud,4,67,53000,No,791.0447761,50.609095,3.040395
+Appartement,Old Property,Fives,1,14,375000,No,26785.71429,50.628545,3.090331
+Maison,Old Property,Hellemmes_,5,125,199800,No,1598.4,50.629241,3.110993
+Appartement,Old Property,Vieux_Lille,2,38,199800,No,5257.894737,50.642801,3.059485
+Appartement,Old Property,Vieux_Lille,2,29,86000,No,2965.517241,50.642801,3.059485
+Appartement,Old Property,Wazemmes,1,14,741600,No,52971.42857,50.62383,3.047664
+Appartement,Old Property,Vieux_Lille,3,65,253000,No,3892.307692,50.642801,3.059485
+Appartement,Old Property,Wazemmes,3,73,227500,No,3116.438356,50.62383,3.047664
+Appartement,Old Property,Wazemmes,3,71,1050000,No,14788.73239,50.62383,3.047664
+Appartement,Old Property,Vauban_Esquermes,2,40,622820,No,15570.5,50.63005,3.042561
+Appartement,Old Property,Vieux_Lille,3,108,185000,No,1712.962963,50.642801,3.059485
+Maison,Old Property,Hellemmes_,4,90,622820,No,6920.222222,50.629241,3.110993
+Appartement,Old Property,Vieux_Lille,3,108,129000,No,1194.444444,50.642801,3.059485
+Appartement,Old Property,Moulins,2,43,171000,No,3976.744186,50.618989,3.066337
+Appartement,Old Property,Fives,5,90,372400,Yes,4137.777778,50.628545,3.090331
+Appartement,Old Property,Bourg_Délivrance,3,53,218000,No,4113.207547,50.645721,2.984393
+Appartement,Old Property,Lille_Sud,2,75,459000,No,6120,50.609095,3.040395
+Appartement,Old Property,Vieux_Lille,3,79,121000,No,1531.64557,50.642801,3.059485
+Appartement,Old Property,Wazemmes,2,42,254000,No,6047.619048,50.62383,3.047664
+Appartement,Old Property,Bourg_Délivrance,3,85,349500,No,4111.764706,50.645721,2.984393
+Appartement,Old Property,Wazemmes,1,14,239000,No,17071.42857,50.62383,3.047664
+Appartement,Old Property,Wazemmes,2,53,174000,No,3283.018868,50.62383,3.047664
+Appartement,Old Property,Wazemmes,2,37,139000,No,3756.756757,50.62383,3.047664
+Appartement,Old Property,Wazemmes,2,33,177000,No,5363.636364,50.62383,3.047664
+Appartement,Old Property,Wazemmes,2,37,260000,No,7027.027027,50.62383,3.047664
+Appartement,Old Property,Wazemmes,3,73,88000,No,1205.479452,50.62383,3.047664
+Appartement,Old Property,Wazemmes,1,15,443500,No,29566.66667,50.62383,3.047664
+Appartement,Old Property,Centre_ville_Euralille,4,100,268000,No,2680,50.634672,3.071724
+Appartement,Old Property,Vieux_Lille,2,61,295000,No,4836.065574,50.642801,3.059485
+Appartement,Old Property,Vauban_Esquermes,2,49,127500,No,2602.040816,50.63005,3.042561
+Appartement,Old Property,Moulins,2,37,243000,No,6567.567568,50.618989,3.066337
+Appartement,Old Property,Wazemmes,4,72,270000,No,3750,50.62383,3.047664
+Appartement,Old Property,Centre_ville_Euralille,3,70,593,No,8.471428571,50.634672,3.071724
+Appartement,Rental,Vauban_Esquermes,3,45,2200,No,48.88888889,50.63005,3.042561
+Appartement,Rental,Vauban_Esquermes,4,188,950,No,5.053191489,50.63005,3.042561
+Appartement,Rental,Moulins,3,50,605,No,12.1,50.618989,3.066337
+Appartement,Rental,Hellemmes_,2,25,590,No,23.6,50.629241,3.110993
+Appartement,Rental,Moulins,1,33,495,No,15,50.618989,3.066337
+Appartement,Rental,Hellemmes_,4,14,495,No,35.35714286,50.629241,3.110993
+Appartement,Rental,Hellemmes_,4,12,495,No,41.25,50.629241,3.110993
+Appartement,Rental,Hellemmes_,4,10,1485,No,148.5,50.629241,3.110993
+Appartement,Rental,Hellemmes_,4,70,1945,No,27.78571429,50.629241,3.110993
+Appartement,Rental,Bois_Blanc,5,75,495,No,6.6,50.630383,3.026585
+Appartement,Rental,Hellemmes_,1,18,486,No,27,50.629241,3.110993
+Appartement,Rental,Bois_Blanc,5,18,678,No,37.66666667,50.630383,3.026585
+Appartement,Rental,Centre_ville_Euralille,2,53,1219,No,23,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,5,125,1019,No,8.152,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,3,82,1045,No,12.74390244,50.630383,3.026585
+Appartement,Rental,Centre_ville_Euralille,3,67,779,No,11.62686567,50.634672,3.071724
+Appartement,Rental,Lille_Sud,3,64,480,No,7.5,50.609095,3.040395
+Appartement,Rental,Hellemmes_,4,80,680,No,8.5,50.629241,3.110993
+Appartement,Rental,Centre_ville_Euralille,2,45,800,No,17.77777778,50.634672,3.071724
+Appartement,Rental,Moulins,2,44,770,No,17.5,50.618989,3.066337
+Appartement,Rental,Fives,2,27,740,No,27.40740741,50.628545,3.090331
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,50,948,No,18.96,50.644111,3.087731
+Appartement,Rental,Hellemmes_,3,80,550,No,6.875,50.629241,3.110993
+Appartement,Rental,Lille_Sud,2,43,1200,No,27.90697674,50.609095,3.040395
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,87,729,No,8.379310345,50.644111,3.087731
+Appartement,Rental,Centre_ville_Euralille,2,55,2200,No,40,50.634672,3.071724
+Appartement,Rental,Vauban_Esquermes,4,188,526,No,2.79787234,50.63005,3.042561
+Studio,Rental,Wazemmes,1,31,701,No,22.61290323,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,40,3200,No,80,50.634672,3.071724
+Appartement,Rental,Wazemmes,3,200,554,No,2.77,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,1,16,800,No,50,50.63005,3.042561
+Appartement,Rental,Wazemmes,1,37,630,No,17.02702703,50.62383,3.047664
+Studio,Rental,Wazemmes,1,15,620,No,41.33333333,50.62383,3.047664
+Appartement,Rental,Moulins,3,41,944,No,23.02439024,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,514,No,6.853333333,50.618989,3.066337
+Appartement,Rental,Centre_ville_Euralille,1,24,630,No,26.25,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,2,35,600,No,17.14285714,50.634672,3.071724
+Studio,Rental,Fives,1,24,890,No,37.08333333,50.628545,3.090331
+Appartement,Rental,Wazemmes,2,42,373,No,8.880952381,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,1,18,574,No,31.88888889,50.63005,3.042561
+Appartement,Rental,Moulins,2,51,716,No,14.03921569,50.618989,3.066337
+Appartement,Rental,Vieux_Lille,2,50,681,No,13.62,50.642801,3.059485
+Appartement,Rental,Hellemmes_,2,46,692,No,15.04347826,50.629241,3.110993
+Appartement,Rental,Vieux_Lille,2,43,700,No,16.27906977,50.642801,3.059485
+Appartement,Rental,Wazemmes,2,46,470,No,10.2173913,50.62383,3.047664
+Appartement,Rental,Lille_Sud,1,12,764,No,63.66666667,50.609095,3.040395
+Appartement,Rental,Saint_Maurice_Pellevoisin,2,52,703,No,13.51923077,50.644111,3.087731
+Appartement,Rental,Bois_Blanc,2,47,673,No,14.31914894,50.630383,3.026585
+Appartement,Rental,Centre_ville_Euralille,2,40,775,No,19.375,50.634672,3.071724
+Appartement,Rental,Lille_Sud,3,68,850,No,12.5,50.609095,3.040395
+Appartement,Rental,Wazemmes,2,41,575,No,14.02439024,50.62383,3.047664
+Appartement,Rental,Sud_Marais,2,44,526,No,11.95454545,50.628596,3.004442
+Studio,Rental,Wazemmes,1,31,458,No,14.77419355,50.62383,3.047664
+Appartement,Rental,Fives,2,19,600,No,31.57894737,50.628545,3.090331
+Appartement,Rental,Sud_Marais,2,44,720,No,16.36363636,50.628596,3.004442
+Appartement,Rental,Sud_Marais,3,64,925,No,14.453125,50.628596,3.004442
+Appartement,Rental,Centre_ville_Euralille,4,80,750,No,9.375,50.634672,3.071724
+Appartement,Rental,Wazemmes,3,53,700,No,13.20754717,50.62383,3.047664
+Appartement,Rental,Moulins,3,48,1408,No,29.33333333,50.618989,3.066337
+Appartement,Rental,Bois_Blanc,4,98,862,No,8.795918367,50.630383,3.026585
+Appartement,Rental,Moulins,4,77,1074,No,13.94805195,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,1074,No,11.07216495,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,1075,No,11.08247423,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,1080,No,11.13402062,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,1090,No,11.2371134,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,925,No,9.536082474,50.618989,3.066337
+Appartement,Rental,Moulins,3,70,444,No,6.342857143,50.618989,3.066337
+Appartement,Rental,Vauban_Esquermes,1,18,540,No,30,50.63005,3.042561
+Studio,Rental,Centre_ville_Euralille,1,29,954,No,32.89655172,50.634672,3.071724
+Appartement,Rental,Moulins,3,75,955,No,12.73333333,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,960,No,12.8,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,960,No,12.8,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,970,No,12.93333333,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,579,No,7.72,50.618989,3.066337
+Appartement,Rental,Centre_ville_Euralille,1,28,857,No,30.60714286,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,2,54,680,No,12.59259259,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,2,49,952,No,19.42857143,50.630383,3.026585
+Appartement,Rental,Moulins,3,75,526,No,7.013333333,50.618989,3.066337
+Studio,Rental,Wazemmes,1,31,660,No,21.29032258,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,2,44,479,No,10.88636364,50.63005,3.042561
+Studio,Rental,Centre_ville_Euralille,1,23,808,No,35.13043478,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,3,44,939,No,21.34090909,50.634672,3.071724
+Appartement,Rental,Moulins,3,75,943,No,12.57333333,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,944,No,12.58666667,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,948,No,12.64,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,949,No,12.65333333,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,458,No,6.106666667,50.618989,3.066337
+Appartement,Rental,Wazemmes,1,22,494,No,22.45454545,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,48,890,No,18.54166667,50.634672,3.071724
+Appartement,Rental,Wazemmes,3,74,691,No,9.337837838,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,38,720,No,18.94736842,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,2,56,492,No,8.785714286,50.630383,3.026585
+Appartement,Rental,Vauban_Esquermes,1,29,629,No,21.68965517,50.63005,3.042561
+Appartement,Rental,Lille_Sud,2,44,758,No,17.22727273,50.609095,3.040395
+Appartement,Rental,Centre_ville_Euralille,2,49,582,No,11.87755102,50.634672,3.071724
+Appartement,Rental,Lille_Sud,2,63,640,No,10.15873016,50.609095,3.040395
+Appartement,Rental,Vieux_Lille,2,36,995,No,27.63888889,50.642801,3.059485
+Appartement,Rental,Mont_à_Camp_Marais,3,86,419,No,4.872093023,50.640847,3.010152
+Studio,Rental,Wazemmes,1,19,687,No,36.15789474,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,43,733,No,17.04651163,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,2,48,1800,No,37.5,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,4,128,615,No,4.8046875,50.634672,3.071724
+Appartement,Rental,Mont_à_Camp_Marais,2,49,1200,No,24.48979592,50.640847,3.010152
+Appartement,Rental,Saint_Maurice_Pellevoisin,4,86,458,No,5.325581395,50.644111,3.087731
+Appartement,Rental,Fives,2,19,720,No,37.89473684,50.628545,3.090331
+Appartement,Rental,Bois_Blanc,2,56,1241,No,22.16071429,50.630383,3.026585
+VILLA,Rental,Moulins,5,89,526,No,5.91011236,50.618989,3.066337
+Studio,Rental,Wazemmes,1,31,494,No,15.93548387,50.62383,3.047664
+Appartement,Rental,Moulins,1,30,590,No,19.66666667,50.618989,3.066337
+Appartement,Rental,Vieux_Lille,2,48,426,No,8.875,50.642801,3.059485
+Studio,Rental,Vieux_Lille,1,24,718,No,29.91666667,50.642801,3.059485
+Appartement,Rental,Moulins,3,61,860,No,14.09836066,50.618989,3.066337
+Appartement,Rental,Bois_Blanc,3,60,651,No,10.85,50.630383,3.026585
+Appartement,Rental,Bois_Blanc,2,42,590,No,14.04761905,50.630383,3.026585
+Appartement,Rental,Lille_Sud,2,37,540,No,14.59459459,50.609095,3.040395
+Appartement,Rental,Lille_Sud,1,36,571,No,15.86111111,50.609095,3.040395
+Appartement,Rental,Lille_Sud,2,57,892,No,15.64912281,50.609095,3.040395
+Appartement,Rental,Mitterie,4,81,1429,No,17.64197531,50.650932,2.993831
+Appartement,Rental,Lille_Sud,5,128,600,No,4.6875,50.609095,3.040395
+Appartement,Rental,Wazemmes,2,38,495,No,13.02631579,50.62383,3.047664
+Appartement,Rental,Sud_Marais,1,39,490,No,12.56410256,50.628596,3.004442
+Appartement,Rental,Sud_Marais,1,39,910,No,23.33333333,50.628596,3.004442
+Appartement,Rental,Hellemmes_,3,64,1070,No,16.71875,50.629241,3.110993
+Appartement,Rental,Vieux_Lille,3,77,946,No,12.28571429,50.642801,3.059485
+Appartement,Rental,Centre_ville_Euralille,2,84,1063,No,12.6547619,50.634672,3.071724
+Appartement,Rental,Mitterie,5,94,533,No,5.670212766,50.650932,2.993831
+Appartement,Rental,Faubourg_de_Béthune,2,37,703,No,19,50.616859,3.031243
+Appartement,Rental,Lille_Sud,3,80,691,No,8.6375,50.609095,3.040395
+Appartement,Rental,Centre_ville_Euralille,2,39,458,No,11.74358974,50.634672,3.071724
+Appartement,Rental,Fives,2,19,2200,No,115.7894737,50.628545,3.090331
+Appartement,Rental,Vauban_Esquermes,4,188,976,No,5.191489362,50.63005,3.042561
+Appartement,Rental,Moulins,4,77,1284,No,16.67532468,50.618989,3.066337
+Appartement,Rental,Centre_ville_Euralille,4,93,823,No,8.849462366,50.634672,3.071724
+Appartement,Rental,Wazemmes,3,67,901,No,13.44776119,50.62383,3.047664
+Appartement,Rental,Wazemmes,4,76,792,No,10.42105263,50.62383,3.047664
+Appartement,Rental,Mitterie,3,64,636,No,9.9375,50.650932,2.993831
+Appartement,Rental,Moulins,2,41,1088,No,26.53658537,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,758,No,7.81443299,50.618989,3.066337
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,75,1140,No,15.2,50.644111,3.087731
+Appartement,Rental,Centre_ville_Euralille,3,55,480,No,8.727272727,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,1,24,462,No,19.25,50.634672,3.071724
+Studio,Rental,Wazemmes,1,21,944,No,44.95238095,50.62383,3.047664
+Appartement,Rental,Moulins,3,75,949,No,12.65333333,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,680,No,9.066666667,50.618989,3.066337
+Appartement,Rental,Wazemmes,2,36,650,No,18.05555556,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,40,931,No,23.275,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,4,71,510,No,7.183098592,50.634672,3.071724
+Studio,Rental,Wazemmes,1,31,575,No,18.5483871,50.62383,3.047664
+Appartement,Rental,Wazemmes,2,34,620,No,18.23529412,50.62383,3.047664
+Appartement,Rental,Wazemmes,2,38,700,No,18.42105263,50.62383,3.047664
+Appartement,Rental,Saint_Maurice_Pellevoisin,2,42,570,No,13.57142857,50.644111,3.087731
+Appartement,Rental,Centre_ville_Euralille,3,27,695,No,25.74074074,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,2,52,815,No,15.67307692,50.630383,3.026585
+Appartement,Rental,Lille_Sud,3,67,910,No,13.58208955,50.609095,3.040395
+Appartement,Rental,Vauban_Esquermes,3,71,526,No,7.408450704,50.63005,3.042561
+Studio,Rental,Wazemmes,1,31,680,No,21.93548387,50.62383,3.047664
+Appartement,Rental,Bois_Blanc,2,49,1027,No,20.95918367,50.630383,3.026585
+Appartement,Rental,Wazemmes,5,121,877,No,7.247933884,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,86,626,No,7.279069767,50.634672,3.071724
+Appartement,Rental,Wazemmes,2,43,935,No,21.74418605,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,3,84,790,No,9.404761905,50.63005,3.042561
+Appartement,Rental,Vauban_Esquermes,2,48,700,No,14.58333333,50.63005,3.042561
+Appartement,Rental,Wazemmes,2,46,530,No,11.52173913,50.62383,3.047664
+Appartement,Rental,Moulins,1,27,2800,No,103.7037037,50.618989,3.066337
+Appartement,Rental,Saint_Maurice_Pellevoisin,5,220,519,No,2.359090909,50.644111,3.087731
+Appartement,Rental,Centre_ville_Euralille,1,21,695,No,33.0952381,50.634672,3.071724
+Appartement,Rental,Moulins,3,52,518,No,9.961538462,50.618989,3.066337
+Studio,Rental,Fives,1,35,540,No,15.42857143,50.628545,3.090331
+Studio,Rental,Centre_ville_Euralille,1,36,670,No,18.61111111,50.634672,3.071724
+Appartement,Rental,Fives,2,43,695,No,16.1627907,50.628545,3.090331
+Appartement,Rental,Vauban_Esquermes,2,40,660,No,16.5,50.63005,3.042561
+Appartement,Rental,Wazemmes,2,49,790,No,16.12244898,50.62383,3.047664
+Appartement,Rental,Lille_Sud,3,68,490,No,7.205882353,50.609095,3.040395
+Appartement,Rental,Saint_Maurice_Pellevoisin,1,32,727,No,22.71875,50.644111,3.087731
+Appartement,Rental,Wazemmes,2,48,1262,No,26.29166667,50.62383,3.047664
+Maison,Rental,Saint_Maurice_Pellevoisin,4,90,890,No,9.888888889,50.644111,3.087731
+Appartement,Rental,Bois_Blanc,3,68,630,No,9.264705882,50.630383,3.026585
+Appartement,Rental,Wazemmes,2,34,593,No,17.44117647,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,3,45,700,No,15.55555556,50.63005,3.042561
+Appartement,Rental,Vauban_Esquermes,2,50,630,No,12.6,50.63005,3.042561
+Appartement,Rental,Centre_ville_Euralille,2,50,720,No,14.4,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,2,56,526,No,9.392857143,50.630383,3.026585
+Studio,Rental,Wazemmes,1,31,581,No,18.74193548,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,28,475,No,16.96428571,50.634672,3.071724
+Studio,Rental,Fives,1,23,438,No,19.04347826,50.628545,3.090331
+Appartement,Rental,Centre_ville_Euralille,1,18,790,No,43.88888889,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,2,47,649,No,13.80851064,50.634672,3.071724
+Appartement,Rental,Lille_Sud,2,46,662,No,14.39130435,50.609095,3.040395
+Appartement,Rental,Vauban_Esquermes,2,47,626,No,13.31914894,50.63005,3.042561
+Appartement,Rental,Centre_ville_Euralille,1,30,934,No,31.13333333,50.634672,3.071724
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,79,730,No,9.240506329,50.644111,3.087731
+Appartement,Rental,Fives,2,38,893,No,23.5,50.628545,3.090331
+Appartement,Rental,Centre_ville_Euralille,2,61,640,No,10.49180328,50.634672,3.071724
+Appartement,Rental,Wazemmes,2,47,695,No,14.78723404,50.62383,3.047664
+Appartement,Rental,Fives,3,71,500,No,7.042253521,50.628545,3.090331
+Appartement,Rental,Wazemmes,1,24,902,No,37.58333333,50.62383,3.047664
+Appartement,Rental,Lille_Sud,3,67,718,No,10.71641791,50.609095,3.040395
+Appartement,Rental,Mitterie,3,50,587,No,11.74,50.650932,2.993831
+Appartement,Rental,Fives,2,60,652,No,10.86666667,50.628545,3.090331
+Appartement,Rental,Wazemmes,2,42,599,No,14.26190476,50.62383,3.047664
+Studio,Rental,Centre_ville_Euralille,1,20,920,No,46,50.634672,3.071724
+Appartement,Rental,Mitterie,4,77,900,No,11.68831169,50.650932,2.993831
+Appartement,Rental,Sud_Marais,3,70,740,No,10.57142857,50.628596,3.004442
+Maison,Rental,Fives,4,74,1007,No,13.60810811,50.628545,3.090331
+Appartement,Rental,Faubourg_de_Béthune,4,98,888,No,9.06122449,50.616859,3.031243
+Appartement,Rental,Vieux_Lille,2,65,665,No,10.23076923,50.642801,3.059485
+Appartement,Rental,Fives,3,50,526,No,10.52,50.628545,3.090331
+Studio,Rental,Wazemmes,1,31,593,No,19.12903226,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,3,45,540,No,12,50.63005,3.042561
+Studio,Rental,Wazemmes,1,25,712,No,28.48,50.62383,3.047664
+Appartement,Rental,Vauban_Esquermes,2,49,595,No,12.14285714,50.63005,3.042561
+Appartement,Rental,Lille_Sud,2,33,629,No,19.06060606,50.609095,3.040395
+Appartement,Rental,Mitterie,2,49,894,No,18.24489796,50.650932,2.993831
+Appartement,Rental,Vieux_Lille,3,54,560,No,10.37037037,50.642801,3.059485
+Appartement,Rental,Vieux_Lille,1,22,559,No,25.40909091,50.642801,3.059485
+Appartement,Rental,Moulins,2,30,610,No,20.33333333,50.618989,3.066337
+Appartement,Rental,Hellemmes_,2,41,910,No,22.19512195,50.629241,3.110993
+Appartement,Rental,Hellemmes_,4,80,770,No,9.625,50.629241,3.110993
+Appartement,Rental,Hellemmes_,3,67,748,No,11.1641791,50.629241,3.110993
+Appartement,Rental,Saint_Maurice_Pellevoisin,2,48,529,No,11.02083333,50.644111,3.087731
+Appartement,Rental,Centre_ville_Euralille,1,35,811,No,23.17142857,50.634672,3.071724
+Appartement,Rental,Wazemmes,3,65,480,No,7.384615385,50.62383,3.047664
+Studio,Rental,Faubourg_de_Béthune,1,19,699,No,36.78947368,50.616859,3.031243
+Appartement,Rental,Mitterie,2,56,604,No,10.78571429,50.650932,2.993831
+Appartement,Rental,Lille_Sud,2,50,710,No,14.2,50.609095,3.040395
+Appartement,Rental,Wazemmes,2,49,830,No,16.93877551,50.62383,3.047664
+Appartement,Rental,Sud_Marais,3,62,395,No,6.370967742,50.628596,3.004442
+Appartement,Rental,Sud_Marais,2,31,841,No,27.12903226,50.628596,3.004442
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,66,700,No,10.60606061,50.644111,3.087731
+Appartement,Rental,Bourg_Délivrance,2,51,975,No,19.11764706,50.645721,2.984393
+Appartement,Rental,Wazemmes,3,70,560,No,8,50.62383,3.047664
+Appartement,Rental,Bourg_Délivrance,2,34,760,No,22.35294118,50.645721,2.984393
+Appartement,Rental,Vauban_Esquermes,2,50,2200,No,44,50.63005,3.042561
+Appartement,Rental,Vauban_Esquermes,4,188,526,No,2.79787234,50.63005,3.042561
+Studio,Rental,Wazemmes,1,31,455,No,14.67741935,50.62383,3.047664
+Studio,Rental,Lille_Sud,1,31,660,No,21.29032258,50.609095,3.040395
+Appartement,Rental,Vauban_Esquermes,2,44,505,No,11.47727273,50.63005,3.042561
+Studio,Rental,Wazemmes,1,19,510,No,26.84210526,50.62383,3.047664
+Studio,Rental,Wazemmes,1,24,570,No,23.75,50.62383,3.047664
+Studio,Rental,Moulins,1,29,670,No,23.10344828,50.618989,3.066337
+Appartement,Rental,Wazemmes,2,49,569,No,11.6122449,50.62383,3.047664
+Appartement,Rental,Centre_ville_Euralille,2,37,481,No,13,50.634672,3.071724
+Appartement,Rental,Faubourg_de_Béthune,1,19,580,No,30.52631579,50.616859,3.031243
+Studio,Rental,Wazemmes,1,23,670,No,29.13043478,50.62383,3.047664
+Appartement,Rental,Hellemmes_,2,39,713,No,18.28205128,50.629241,3.110993
+Appartement,Rental,Vieux_Lille,2,52,665,No,12.78846154,50.642801,3.059485
+Appartement,Rental,Centre_ville_Euralille,2,44,661,No,15.02272727,50.634672,3.071724
+Appartement,Rental,Bois_Blanc,2,53,912,No,17.20754717,50.630383,3.026585
+Appartement,Rental,Vieux_Lille,3,74,690,No,9.324324324,50.642801,3.059485
+Appartement,Rental,Hellemmes_,2,42,811,No,19.30952381,50.629241,3.110993
+Appartement,Rental,Vauban_Esquermes,2,52,540,No,10.38461538,50.63005,3.042561
+Appartement,Rental,Hellemmes_,2,43,470,No,10.93023256,50.629241,3.110993
+Appartement,Rental,Wazemmes,1,26,1245,No,47.88461538,50.62383,3.047664
+VILLA,Rental,Centre_ville_Euralille,4,83,500,No,6.024096386,50.634672,3.071724
+Studio,Rental,Centre_ville_Euralille,1,26,1060,No,40.76923077,50.634672,3.071724
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,76,798,No,10.5,50.644111,3.087731
+Appartement,Rental,Moulins,2,56,932,No,16.64285714,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,1060,No,14.13333333,50.618989,3.066337
+Appartement,Rental,Moulins,4,97,526,No,5.422680412,50.618989,3.066337
+Studio,Rental,Wazemmes,1,31,720,No,23.22580645,50.62383,3.047664
+Appartement,Rental,Bois_Blanc,2,56,1212,No,21.64285714,50.630383,3.026585
+Appartement,Rental,Moulins,5,113,669,No,5.920353982,50.618989,3.066337
+Appartement,Rental,Hellemmes_,2,58,790,No,13.62068966,50.629241,3.110993
+Appartement,Rental,Centre_ville_Euralille,3,65,757,No,11.64615385,50.634672,3.071724
+Appartement,Rental,Centre_ville_Euralille,2,50,630,No,12.6,50.634672,3.071724
+Appartement,Rental,Moulins,3,65,605,No,9.307692308,50.618989,3.066337
+Studio,Rental,Centre_ville_Euralille,1,29,427,No,14.72413793,50.634672,3.071724
+Studio,Rental,Vauban_Esquermes,1,18,300,No,16.66666667,50.63005,3.042561
+Appartement,Rental,Centre_ville_Euralille,1,9,810,No,90,50.634672,3.071724
+Appartement,Rental,Saint_Maurice_Pellevoisin,3,64,490,No,7.65625,50.644111,3.087731
+Appartement,Rental,Moulins,1,18,2505,No,139.1666667,50.618989,3.066337
+Appartement,Rental,Centre_ville_Euralille,6,204,582,No,2.852941176,50.634672,3.071724
+Appartement,Rental,Lille_Sud,2,50,458,No,9.16,50.609095,3.040395
+Appartement,Rental,Fives,2,19,801,No,42.15789474,50.628545,3.090331
+Appartement,Rental,Moulins,2,56,947,No,16.91071429,50.618989,3.066337
+Appartement,Rental,Moulins,3,75,1450,No,19.33333333,50.618989,3.066337
+Appartement,Rental,Wazemmes,6,176,445,No,2.528409091,50.62383,3.047664
+Studio,Rental,Moulins,1,21,750,No,35.71428571,50.618989,3.066337
+Appartement,Rental,Vauban_Esquermes,3,54,663,No,12.27777778,50.63005,3.042561
+Appartement,Rental,Moulins,2,41,801,No,19.53658537,50.618989,3.066337
+Appartement,Rental,Moulins,2,56,898,No,16.03571429,50.618989,3.066337
+Appartement,Rental,Lille_Sud,4,103,670,No,6.504854369,50.609095,3.040395
+Appartement,Rental,Vauban_Esquermes,2,46,953,No,20.7173913,50.63005,3.042561
+Appartement,New Property,Vieux_Lille,3,68,214025.5,Yes,3147.433824,50.642801,3.059485
+Appartement,New Property,Lille_Sud,2,67,277500,Yes,4141.791045,50.609095,3.040395
+Appartement,New Property,Bourg_Délivrance,1,54,246360,Yes,4562.222222,50.645721,2.984393
+Appartement,New Property,Lille_Sud,2,43,257000,Yes,5976.744186,50.609095,3.040395
+Appartement,New Property,Lille_Sud,1,60,535000,Yes,8916.666667,50.609095,3.040395
+VILLA,New Property,Centre_ville_Euralille,3,42,240000,Yes,5714.285714,50.634672,3.071724
+Appartement,New Property,Moulins,3,38,161000,Yes,4236.842105,50.618989,3.066337
+Appartement,New Property,Fives,1,38,223000,Yes,5868.421053,50.628545,3.090331
+Appartement,New Property,Centre_ville_Euralille,2,49,250500,Yes,5112.244898,50.634672,3.071724
+Appartement,New Property,Hellemmes_,3,36,192388.5,Yes,5344.125,50.629241,3.110993
+Appartement,New Property,Centre_ville_Euralille,3,47,495500,Yes,10542.55319,50.634672,3.071724
+Appartement,New Property,Centre_ville_Euralille,3,42,377500,Yes,8988.095238,50.634672,3.071724
+Appartement,New Property,Saint_Maurice_Pellevoisin,3,38,204000,Yes,5368.421053,50.644111,3.087731
+Appartement,New Property,Bourg_Délivrance,2,58,345400,No,5955.172414,50.645721,2.984393
+Appartement,New Property,Moulins,4,83,161447.5,Yes,1945.150602,50.618989,3.066337
+Appartement,New Property,Lille_Sud,2,41,342900,No,8363.414634,50.609095,3.040395
+Appartement,New Property,Bourg_Délivrance,4,83,389000,Yes,4686.746988,50.645721,2.984393
+Appartement,New Property,Saint_Maurice_Pellevoisin,3,45,208000,Yes,4622.222222,50.644111,3.087731
+Appartement,New Property,Bourg_Délivrance,1,24,204000,Yes,8500,50.645721,2.984393
+Appartement,New Property,Hellemmes_,3,54,221500,Yes,4101.851852,50.629241,3.110993
+Appartement,New Property,Mitterie,1,31,318500,Yes,10274.19355,50.650932,2.993831
+Appartement,New Property,Bourg_Délivrance,2,22,233950,Yes,10634.09091,50.645721,2.984393
+Appartement,New Property,Moulins,2,27,214025.5,Yes,7926.87037,50.618989,3.066337
+Appartement,New Property,Lille_Sud,2,34,322750,Yes,9492.647059,50.609095,3.040395
+Appartement,New Property,Centre_ville_Euralille,2,54,555516.5,Yes,10287.34259,50.634672,3.071724
+Appartement,New Property,Vieux_Lille,3,48,369000,No,7687.5,50.642801,3.059485
+Appartement,New Property,Centre_ville_Euralille,1,25,248000,No,9920,50.634672,3.071724
+VILLA,New Property,Centre_ville_Euralille,3,73,268000,Yes,3671.232877,50.634672,3.071724
+Appartement,New Property,Lille_Sud,3,64,171000,No,2671.875,50.609095,3.040395
+Appartement,New Property,Lille_Sud,4,66,372400,Yes,5642.424242,50.609095,3.040395
+Appartement,New Property,Fives,5,61,277750,Yes,4553.278689,50.628545,3.090331
+Appartement,New Property,Bourg_Délivrance,3,40,257250,No,6431.25,50.645721,2.984393
+Appartement,New Property,Wazemmes,2,48,328762.5,Yes,6849.21875,50.62383,3.047664

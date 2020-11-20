@@ -1,0 +1,27 @@
+Web Scraping.ipynb
+
+This file scrapes the properties on Bienici.com for Lille city and stores it in the 'raw_data.csv' file
+
+
+
+
+###
+Data Cleaning.ipynb
+
+This file cleans the 'raw_data.csv' file and creates a more structured data file called the 'Clean_data.csv'
+
+
+
+###
+Manipulating data and Visualization.ipynb
+
+This file takes the 'Clean_data.csv' and adds a few columns, formats the data and creates a more consistent data. 
+This new data is stored in the 'Bienici Lille data.csv' file. It then uses this data to create visualizations that 
+give insights about the data.
+
+
+
+###
+Financial Programming Individual Assignment Rohit Bhalerao.pptx
+
+This is the presentation file, explaining the project.
